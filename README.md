@@ -8,3 +8,18 @@
 
 
 ![image](https://github.com/user-attachments/assets/9f4fd2ed-cc28-4a8c-a548-0d4348bcef94)
+
+
+## Conclusion  
+Electronic Games and Tables are both negative in terms of profitability and should be looked at.  
+182 Customers have a negative profitability out of the 332 (Roughly 55%).  
+The customers with negative profitability reside in:  
+- Madhya Pradesh  
+- Maharashtra  
+Bookcases and printers seem to be pretty big influencers in the data, and are key drivers of overall Revenue (Amount).  
+  
+## Recommendation  
+Have the Branch Manager review the most unprofitable customers.  
+Take a look at the underperforming States and identify why there is such a large variance between customers’ profitability.  
+Consider not selling Tables and Electronic games until costs can be reduced as these are taking away from the profitability of the company.  
+Focus on expanding profitable sub-categories to continue trend in profitability.  
