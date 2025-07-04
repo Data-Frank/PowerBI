@@ -1,4 +1,9 @@
-The first Dashbaord I've made. 
+### 📊 Dashboard/Story Usage Overview
+
+| **Objective** | **Users** | **Actions** | **Usage Frequency** |
+|---------------|-----------|-------------|----------------------|
+| Review current product lines and identify areas for improvement | Head of Finance | - Identify areas that can improve revenue  <br> - Identify low-performing products and regions | Monthly |
+
 ![image](https://github.com/user-attachments/assets/ec453997-5714-408e-994d-66b25334a183)
 
 
